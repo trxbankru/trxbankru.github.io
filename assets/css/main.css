@@ -9,8 +9,8 @@ body {
   padding: 40px 100px 100px 100px;
   background: linear-gradient(
     169deg,
-    rgba(129, 80, 246, 1) 0%,
-    rgba(227, 160, 241, 0.7637429971988796) 100%
+    rgb(246 77 77) 0%,
+    rgb(247 113 75) 100%
   );
 }
 .faq h1 {
@@ -184,8 +184,8 @@ body {
   background: rgb(129, 80, 246);
   background: linear-gradient(
     169deg,
-    rgba(129, 80, 246, 1) 0%,
-    rgba(227, 160, 241, 0.7637429971988796) 100%
+    rgb(246 76 77) 0%,
+    rgb(247 115 74) 100%
   );
   padding: 30px;
 }
